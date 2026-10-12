@@ -1,0 +1,188 @@
+[
+  {
+    "question_id": "CBSE-HIST-09-001",
+    "board": "CBSE",
+    "class_grade": "Class 9",
+    "subject": "History",
+    "chapter": "The French Revolution",
+    "topic": "Subsistence Crisis",
+    "question_text": "What were the main factors that led to the subsistence crisis in France during the Old Regime?",
+    "question_type": "Short Answer",
+    "difficulty": "Medium",
+    "maximum_marks": 3.0,
+    "source_reference": "NCERT Class 9 History, Chapter 1, Page 4",
+    "source_type": "QUESTION_PAPER",
+    "validation_status": "VALID",
+    "validation_errors": [],
+    "expected_answer": "The subsistence crisis occurred due to rapid population growth from 23 million to 28 million, leading to high demand for food grains. Production of grains could not keep pace with demand, so the price of bread rose rapidly. Wages of workers did not increase with prices, widening the gap between rich and poor. Frequent drought or hail reduced harvests further.",
+    "marking_rubric": [
+      {
+        "criterion_id": "crit_sub_01",
+        "point": "Rapid population growth (23M to 28M) leading to increased demand for food grains",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for mentioning population surge and rising food demand",
+        "acceptable_alternatives": ["Population increase causing food shortage", "Demand for food grains outstripping production"],
+        "common_misconceptions": ["Thinking famine was caused purely by foreign war"]
+      },
+      {
+        "criterion_id": "crit_sub_02",
+        "point": "Inflation of bread prices and fixed wages widening economic disparity",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for bread price hike and wage stagnation",
+        "acceptable_alternatives": ["Prices of staple food rose sharply while workers' wages remained fixed", "Widening gap between the rich and the poor"],
+        "common_misconceptions": ["Believing wages increased alongside prices"]
+      },
+      {
+        "criterion_id": "crit_sub_03",
+        "point": "Adverse weather conditions like drought or hail destroying harvests",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for bad weather / natural disasters damaging crop yields",
+        "acceptable_alternatives": ["Severe drought or hail damaging harvest yields", "Agricultural failure due to bad weather"],
+        "common_misconceptions": ["Ignoring the agricultural/climatic factor"]
+      }
+    ],
+    "rubric_status": "VERIFIED"
+  },
+  {
+    "question_id": "CBSE-HIST-09-002",
+    "board": "CBSE",
+    "class_grade": "Class 9",
+    "subject": "History",
+    "chapter": "The French Revolution",
+    "topic": "The Outbreak of the Revolution",
+    "question_text": "Explain the circumstances that led to the Tennis Court Oath and the formation of the National Assembly in 1789.",
+    "question_type": "Long Answer",
+    "difficulty": "Hard",
+    "maximum_marks": 5.0,
+    "source_reference": "NCERT Class 9 History, Chapter 1, Pages 8-9",
+    "source_type": "QUESTION_PAPER",
+    "validation_status": "VALID",
+    "validation_errors": [],
+    "expected_answer": "Louis XVI convened the Estates-General on 5 May 1789 to pass proposals for new taxes. Each estate had one vote, but the Third Estate demanded that each member have one vote. When the King rejected this democratic principle, representatives of the Third Estate walked out. On 20 June 1789, they assembled in the indoor tennis court at Versailles under the leadership of Mirabeau and Abbé Sieyès, declared themselves the National Assembly, and swore not to disperse until they had drafted a constitution limiting royal power.",
+    "marking_rubric": [
+      {
+        "criterion_id": "crit_tco_01",
+        "point": "Convening of the Estates-General on 5 May 1789 and the dispute over voting procedure",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for mentioning the Estates-General meeting and voting rules dispute",
+        "acceptable_alternatives": ["King called Estates General; dispute over one estate one vote vs one person one vote"],
+        "common_misconceptions": ["Confusing Estates-General with the National Assembly"]
+      },
+      {
+        "criterion_id": "crit_tco_02",
+        "point": "Third Estate's demand for democratic voting (each member having one vote)",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for democratic voting demand based on Rousseau's philosophy",
+        "acceptable_alternatives": ["Third Estate wanted voting per head rather than per estate"],
+        "common_misconceptions": ["Assuming the King agreed immediately"]
+      },
+      {
+        "criterion_id": "crit_tco_03",
+        "point": "Walkout and assembly at the indoor tennis court of Versailles on 20 June 1789",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for the date (20 June 1789) and tennis court venue",
+        "acceptable_alternatives": ["Third estate walked out in protest and gathered in Versailles tennis hall"],
+        "common_misconceptions": ["Believing the oath took place in Paris"]
+      },
+      {
+        "criterion_id": "crit_tco_04",
+        "point": "Declaration of the National Assembly and the oath not to disperse without a constitution",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for self-proclamation as National Assembly and drafting pledge",
+        "acceptable_alternatives": ["Swearing an oath to frame a constitution that would curtail monarch's power"],
+        "common_misconceptions": ["Thinking the oath was to execute the King"]
+      },
+      {
+        "criterion_id": "crit_tco_05",
+        "point": "Leadership provided by Mirabeau (noble) and Abbé Sieyès (priest)",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for naming leaders Mirabeau and Abbé Sieyès",
+        "acceptable_alternatives": ["Led by Mirabeau who gave speeches and Abbé Sieyès who wrote 'What is the Third Estate'"],
+        "common_misconceptions": ["Naming Robespierre as the primary leader of the Tennis Court Oath"]
+      }
+    ],
+    "rubric_status": "VERIFIED"
+  },
+  {
+    "question_id": "CBSE-HIST-09-003",
+    "board": "CBSE",
+    "class_grade": "Class 9",
+    "subject": "History",
+    "chapter": "Socialism in Europe and the Russian Revolution",
+    "topic": "The Russian Revolution",
+    "question_text": "What were the main demands included in Vladimir Lenin's 'April Theses'?",
+    "question_type": "Short Answer",
+    "difficulty": "Medium",
+    "maximum_marks": 3.0,
+    "source_reference": "NCERT Class 9 History, Chapter 2, Page 38",
+    "source_type": "QUESTION_PAPER",
+    "validation_status": "VALID",
+    "validation_errors": [],
+    "expected_answer": "In April 1917, Vladimir Lenin returned to Russia from exile and put forward three key demands known as the 'April Theses': 1. The war (First World War) be brought to a close; 2. Land be transferred to the peasants; 3. Banks be nationalized.",
+    "marking_rubric": [
+      {
+        "criterion_id": "crit_at_01",
+        "point": "First World War be brought to an immediate close / exit from war",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for stopping the war",
+        "acceptable_alternatives": ["Immediate withdrawal of Russia from World War I", "Ending the imperialist war"],
+        "common_misconceptions": ["Thinking Lenin wanted to expand the war"]
+      },
+      {
+        "criterion_id": "crit_at_02",
+        "point": "Land be transferred to the peasants",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for redistribution of land to peasants",
+        "acceptable_alternatives": ["Confiscation of landlord estates and redistribution to farmers"],
+        "common_misconceptions": ["Thinking land was to be privatized into corporate farms"]
+      },
+      {
+        "criterion_id": "crit_at_03",
+        "point": "Nationalisation of banks",
+        "allocated_marks": 1.0,
+        "description": "Award 1 mark for state control / nationalisation of banks",
+        "acceptable_alternatives": ["Banks be brought under government/soviet control"],
+        "common_misconceptions": ["Believing banks were to remain privately owned"]
+      }
+    ],
+    "rubric_status": "VERIFIED"
+  },
+  {
+    "question_id": "CBSE-HIST-09-004",
+    "board": "CBSE",
+    "class_grade": "Class 9",
+    "subject": "History",
+    "chapter": "Nazism and the Rise of Hitler",
+    "topic": "Foreign Policy",
+    "question_text": "Describe the main highlights of Hitler's foreign policy before the outbreak of World War II.",
+    "question_type": "Short Answer",
+    "difficulty": "Medium",
+    "maximum_marks": 3.0,
+    "source_reference": "NCERT Class 9 History, Chapter 3, Page 62",
+    "source_type": "QUESTION_PAPER",
+    "validation_status": "VALID",
+    "validation_errors": [],
+    "expected_answer": "",
+    "marking_rubric": [],
+    "rubric_status": "UNVERIFIED"
+  },
+  {
+    "question_id": "CBSE-HIST-09-005",
+    "board": "CBSE",
+    "class_grade": "Class 9",
+    "subject": "History",
+    "chapter": "Socialism in Europe and the Russian Revolution",
+    "topic": "The First World War and the Russian Empire",
+    "question_text": "How did the First World War affect the Russian Empire and economy?",
+    "question_type": "Long Answer",
+    "difficulty": "Hard",
+    "maximum_marks": 5.0,
+    "source_reference": "NCERT Class 9 History, Chapter 2, Pages 34-35",
+    "source_type": "QUESTION_PAPER",
+    "validation_status": "VALID",
+    "validation_errors": [],
+    "expected_answer": "",
+    "marking_rubric": [],
+    "rubric_status": "NEEDS_PREPARATION"
+  }
+]
